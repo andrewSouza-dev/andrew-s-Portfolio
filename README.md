@@ -7,6 +7,14 @@ e falar mais sobre minhas habilidades como desenvolvedor.
 
 ---
 
+## 🌐 Visualizar Portfólio
+
+Clique na imagem abaixo para acessar o portfólio online:
+
+[![Tela Inicial do Portfólio](assets/img/projectsImg/menu.png)](https://portfolio-andrew-dev.netlify.app/)
+
+---
+
 ## 🖥️ Tecnologias Utilizadas
 
 - HTML5
