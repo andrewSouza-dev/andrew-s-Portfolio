@@ -447,7 +447,7 @@ h1 {
 }
 
 .descricao {
-    color: var(--glass);
+    color: var(--light);
     margin-bottom: 20px;
     font-size: 1rem;
     display: flex;
