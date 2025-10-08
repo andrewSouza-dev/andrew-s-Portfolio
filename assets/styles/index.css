@@ -548,6 +548,67 @@ h1 {
 /* ===============================
    RESPONSIVIDADE GERAL
    =============================== */
+@media (max-width: 470px) {
+  /* Centraliza e ajusta o espaçamento da seção de contato */
+  .contato {
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  .contato .descricao {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Corrige o formulário */
+  .formulario-contato {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .formulario-contato .grupo-form {
+    width: 100%;
+  }
+
+  .formulario-contato .campo-form {
+    width: 100%;
+    padding: 12px 14px;
+    border-radius: 10px;
+    font-size: 1rem;
+  }
+
+  .btn-form {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #6a00ff, #944bff);
+    color: #fff;
+    transition: all 0.3s ease;
+  }
+
+  .btn-form:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+  }
+
+  /* Ajusta o título para caber melhor */
+  .contatos-titulo {
+    font-size: 1.6rem;
+  }
+
+  /* Reposiciona as bolhas decorativas para não atrapalhar o texto */
+  .bolha {
+    transform: scale(0.7);
+    opacity: 0.4;
+  }
+}
+
 
 @media (max-width: 554px) {
   .navegacao {
