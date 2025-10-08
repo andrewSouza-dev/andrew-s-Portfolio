@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/styles/index.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="shortcut icon" href="./assets/img/icone.png" type="image/x-icon">
+    <title>Andrew's Portfolio</title>
+</head>
+
+<body>
+    <nav class="navegacao">
+        <div class="logo" id="menu-toggle">
+            <p>Port<span>Fólio</span></p>
+        </div>
+
+        <ul class="menu">
+            <li>
+                <a href="#inicio" class="menu-link">inicio</a>
+            </li>
+
+            <li>
+                <a href="#sobre" class="menu-link">Sobre</a>
+            </li>
+
+            <li>
+                <a href="#projetos" class="menu-link">Projetos</a>
+            </li>
+
+            <li>
+                <a href="#contato" class="menu-link">Contato</a>
+            </li>
+        </ul>
+
+    </nav>
+
+
+    <section id="inicio" class="cabecalho" role="banner">
+        <div class="elementos-decorativos">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="conteudo">
+            <img src="assets/img/me.png" alt="my photo" class="foto-perfil">
+            <h1>Andrew Vinicius de Souza</h1>
+            <h3>Desenvolvedor back-end <span class="typing"></span></h3>
+            <p class="tagline">Buscando simplicidade e propósito em cada linha de código.</p>
+            
+            <div class="socials">
+                <a href="https://github.com/andrewSouza-dev" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com/in/devandrew" target="_blank"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+    </section>
+
+    
+
+
+    <section id="sobre" class="sobre">
+        <h2 class="sobre-titulo">Sobre mim</h2>
+        <div class="sobre-caixa">
+            <p class="sobre-text">
+            Sou um desenvolvedor apaixonado por transformar ideias em interfaces funcionais. 
+            Desde que comecei no mundo da programação, busco unir estética e performance em cada projeto.</p>
+        </div>
+
+        <div class="skills">
+            <h3>Minhas Habilidades</h3>
+
+            <div class="skill-logo">
+            <img src="assets/img/sobreImg/html5.svg" alt="HTML5">
+        
+            <img src="assets/img/sobreImg/css3.svg" alt="CSS3">
+
+            <img src="assets/img/sobreImg/javascript.svg" alt="JavaScrip">
+
+            <img src="assets/img/sobreImg/typescript.svg" alt="TypeScript">
+
+            <img src="assets/img/sobreImg/nodejs.svg" alt="NodeJS">
+
+            <img src="assets/img/sobreImg/prisma.svg" alt="PrismaORM">
+
+            <img src="assets/img/sobreImg/express.svg" alt="ExpressJS">
+
+            <img src="assets/img/sobreImg/sqlServer.svg" alt="SqlServer">
+
+            <img src="assets/img/sobreImg/postgreSql.svg" alt="PostgreSql">
+        </div>
+        </div>
+
+        <div class="ferramentas">
+            <h3>Ferramentas que uso</h3>
+            <div class="logos">
+                <img src="assets/img/sobreImg/vscode.svg" alt="VSCode">
+                <img src="assets/img/sobreImg/git.svg" alt="Git">
+                <img src="assets/img/sobreImg/linux.gif" alt="Linux">
+                <img src="assets/img/sobreImg/postman.png" alt="Postman">
+            </div>
+        </div>
+
+        <blockquote class="citacao">
+        "A simplicidade é o último grau da sofisticação." — Leonardo da Vinci
+        </blockquote>
+    </section>
+
+
+    <section id="projetos" class="projetos">
+        <div class="elementos-decorativos">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="conteudo-projetos">
+            <h2 class="projetos-titulo">Meus Projetos</h2>
+            <div class="projetos-caixa">
+            <div class="projetos-card">
+                <img src="assets/img/projectsImg/calcImc.png" alt="Projeto 1" class="projetos-image">
+                <div class="caixa-textos-projeto">
+                    <h3 class="info-projetos">Calculadora de Imc</h3>
+                    <p class="text-projetos">Calculadora de Imc Responsiva com: HTML5, CSS3 e JavaScrip</p>
+                </div>
+            </div>
+            <div class="projetos-card">
+                <img src="assets/img/projectsImg/ApiRotas.png" alt="Projeto 1" class="projetos-image">
+                <div class="caixa-textos-projeto">
+                    <h3 class="info-projetos">Api Rest Sobre Leads</h3>
+                    <p class="text-projetos">Texto do projeto</p>
+                </div>
+            </div>
+            <div class="projetos-card">
+                <img src="assets/img/me.png" alt="Projeto 1" class="projetos-image">
+                <div class="caixa-textos-projeto">
+                    <h3 class="info-projetos">Calculadora Simples</h3>
+                    <p class="text-projetos">Texto do projeto</p>
+                </div>
+            </div>
+            <div class="projetos-card">
+                <img src="assets/img/projectsImg/api.png" alt="Projeto 1" class="projetos-image">
+                <div class="caixa-textos-projeto">
+                    <h3 class="info-projetos">Landing Page Responsiva Sobre Carros</h3>
+                    <p class="text-projetos">Texto do projeto</p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    <section id="contato" class="contato">
+        <h2 class="contatos-titulo">Entre em Contato!</h2>
+        <p class="descricao">Quer conversar sobre projetos, colaborações ou ideias? Envie uma mensagem!</p>
+
+        <form class="formulario-contato" id="formulario" onsubmit="enviarWhatsApp(event)">
+            <div class="grupo-form">
+                <input type="text" class="campo-form" placeholder="Seu nome" id="nome">
+            </div>
+
+            <div class="grupo-form">
+                <textarea class="campo-form" placeholder="Digite sua mensagem" id="mensagem"></textarea>
+            </div>
+
+            <button type="submit" class="btn-form">Enviar</button>
+        </form>
+
+        <!-- Bolhas decorativas -->
+        <div class="bolha" style="top:20%; left:10%;"></div>
+        <div class="bolha" style="bottom:15%; right:20%;"></div>
+        <div class="bolha" style="top:60%; right:5%;"></div>
+    </section>
+
+    <script src="assets/js/mensagem.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
