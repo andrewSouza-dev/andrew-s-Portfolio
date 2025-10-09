@@ -57,7 +57,7 @@ myPortfolio/
 
 ---
 
-## 🔗 Links Úteis
+## 🔗 Links
 
 - GitHub: [Seu GitHub](https://github.com/andrewSouza-dev)
 - LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/devandrew)
@@ -69,6 +69,7 @@ myPortfolio/
 1. Clone este repositório:
    ```bash
    git clone https://github.com/andrewSouza-dev/myPortfolio.git
+
 Abra o arquivo index.html em um navegador web.
 
 Explore as seções e links.
