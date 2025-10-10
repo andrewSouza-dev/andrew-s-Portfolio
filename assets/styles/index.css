@@ -390,9 +390,10 @@ h1 {
 }
 
 .projetos-imagem {
-    height: 180px;
+    height: 220px;
     width: 100%;
     object-fit: cover;
+    display: block;
 }
 
 .projetos-card {
@@ -407,7 +408,7 @@ h1 {
     flex-direction: column;
     justify-content: space-between;
     color: var(--light);
-    height: 280px;
+    height: 350px;
 }
 
 .caixa-textos-projeto {
