@@ -1,5 +1,5 @@
 // Mostra spans gerados automaticamente atraves de um temporizador
-const roles = ["JavaScript", "TypeScript", "Node.js"];
+const roles = ["JavaScript", "TypeScript", "C#"];
 let i = 0;
 const span = document.querySelector(".typing");
 
