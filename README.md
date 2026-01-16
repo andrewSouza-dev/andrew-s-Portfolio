@@ -1,6 +1,6 @@
 # Portfólio - Andrew Vinicius de Souza
 
-Meu nome é **Andrew Vinicius de Souza**, sou um desenvolvedor back-end JavaScript apaixonado por
+Meu nome é **Andrew Vinicius de Souza**, sou um desenvolvedor back-end JavaScript com Node.JS + express e também em C# com APS.NET apaixonado por
 tecnologia e codigos! Esse projeto é um espaço
 reservado para para mostrar alguns dos meus projetos
 e falar mais sobre minhas habilidades como desenvolvedor.
