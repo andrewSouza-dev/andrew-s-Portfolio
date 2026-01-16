@@ -41,21 +41,6 @@ Clique na imagem abaixo para acessar o portfólio online:
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-```bash
-   git clone https://github.com/andrewSouza-dev/myPortfolio.git
-```
-
----
-
-Abra o arquivo index.html em um navegador web.
-
-Explore as seções e links.
-
----
-
 ## 📝 Observações
 
 Os scripts JavaScript adicionam interatividade, como envio de mensagens e efeitos visuais.
