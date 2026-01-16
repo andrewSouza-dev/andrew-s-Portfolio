@@ -11,7 +11,7 @@ e falar mais sobre minhas habilidades como desenvolvedor.
 
 Clique na imagem abaixo para acessar o portfólio online:
 
-<a href="https://me-portfolio-andrew.netlify.app/" target="_blank">
+<a href="https://me-portfolio-andrew.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="assets/img/menu.png" alt="Tela Inicial do Portfólio">
 </a>
 
