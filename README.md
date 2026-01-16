@@ -11,7 +11,7 @@ e falar mais sobre minhas habilidades como desenvolvedor.
 
 Clique na imagem abaixo para acessar o portfólio online:
 
-[![Tela Inicial do Portfólio](assets/img/projectsImg/menu.png)](https://portfolio-andrew-dev.netlify.app/)
+[![Tela Inicial do Portfólio](assets/img/projectsImg/menu.png)
 
 ---
 
@@ -21,29 +21,6 @@ Clique na imagem abaixo para acessar o portfólio online:
 - CSS3
 - JavaScript
 - Font Awesome (ícones)
-
----
-
-## 📂 Estrutura do Projeto
-
-myPortfolio/
-│
-├── assets/
-│ ├── img/
-│ │ ├── me.png # Foto do desenvolvedor
-│ │ ├── icone.png # Ícones adicionais
-│ │ ├── projectsImg/ # Imagens dos projetos
-│ │ └── sobreImg/ # Imagens da seção "Sobre"
-│ │
-│ └── js/
-│ ├── script.js # Script principal da página
-│ └── mensagem.js # Script de envio de mensagens
-│
-├── styles/
-│ └── index.css # Estilos principais
-│
-├── index.html # Página principal
-└── README.md # Este arquivo
 
 ---
 
@@ -67,12 +44,17 @@ myPortfolio/
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone https://github.com/andrewSouza-dev/myPortfolio.git
+```
+
+---
 
 Abra o arquivo index.html em um navegador web.
 
 Explore as seções e links.
+
+---
 
 ## 📝 Observações
 
@@ -82,7 +64,9 @@ Os estilos CSS garantem um layout moderno e responsivo.
 
 Este projeto pode ser expandido com mais projetos, animações e integração com APIs.
 
+---
+
 ## 🖋️ Autor
 
 Andrew Vinicius de Souza
-Desenvolvedor back-end JavaScript(NodeJs)
+Desenvolvedor back-end JavaScript(NodeJs) / C#(ASP.NET)
