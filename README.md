@@ -36,8 +36,8 @@ Clique na imagem abaixo para acessar o portfólio online:
 
 ## 🔗 Links
 
-- GitHub: [Seu GitHub](https://github.com/andrewSouza-dev)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/devandrew)
+- GitHub: [GitHub](https://github.com/andrewSouza-dev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/devandrew)
 
 ---
 
