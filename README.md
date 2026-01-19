@@ -50,8 +50,6 @@ Os scripts JavaScript adicionam interatividade, como envio de mensagens e efeito
 
 Os estilos CSS garantem um layout moderno e responsivo.
 
-Este projeto pode ser expandido com mais projetos, animações e integração com APIs.
-
 ---
 
 ## 🖋️ Autor
