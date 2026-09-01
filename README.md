@@ -44,14 +44,6 @@ Clique na imagem abaixo para acessar o portfólio online:
 
 ---
 
-## 📝 Observações
-
-Os scripts JavaScript adicionam interatividade, como envio de mensagens e efeitos visuais.
-
-Os estilos CSS garantem um layout moderno e responsivo.
-
----
-
 ## 🖋️ Autor
 
 Andrew Vinicius de Souza
